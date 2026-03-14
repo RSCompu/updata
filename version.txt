@@ -1,4 +1,4 @@
 1.0.9
-https://raw.githubusercontent.com/RSCompu/updata/refs/heads/main/update.zip
+https://drive.usercontent.google.com/download?id=1JHE6dxl-qYEMB7eNZLYAQXBklJ68FNdt&export=download&authuser=0&confirm=t&uuid=11d44bdd-551a-4aba-bb78-1bc295e2c3b2&at=AGN2oQ2sa_Ns69FZjoVnLn68mCah%3A1773526549110
 Automated System Update
 Minor bug fixes and improvements.
