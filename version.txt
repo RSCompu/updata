@@ -1,4 +1,4 @@
-1.0.6
+1.0.7
 https://raw.githubusercontent.com/RSCompu/updata/refs/heads/main/update.zip
 Automated System Update
 Minor bug fixes and improvements.
